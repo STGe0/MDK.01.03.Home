@@ -29,7 +29,6 @@ class MyBodyState extends State<MyBody> {
   int integ3 = 1;
   int integ4 = 0;
   String str = "";
-  String str2 = "1";
   BigInt bi3 = BigInt.from(1);
 
   @override
